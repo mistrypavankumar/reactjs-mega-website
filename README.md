@@ -1,1 +1,2 @@
-Click here https://mg143pavankumar.github.io/reactjs-mega-website/ to see the maga website
+### Click below link to open mega website
+https://mg143pavankumar.github.io/reactjs-mega-website/ 
