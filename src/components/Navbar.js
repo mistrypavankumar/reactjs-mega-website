@@ -29,7 +29,7 @@ function Navbar() {
                     <div className='navbar-container container'>
                         <Link to='/' className='navbar-logo' onClick = {closeMoblileMenu}>
                             <MdFingerprint className='navbar-icon' />
-                        LAVISH
+                        MEGA
                     </Link>
 
                         <div className='menu-icon' onClick={handleClick}>
