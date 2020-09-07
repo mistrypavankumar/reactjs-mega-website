@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/reactjs-mega-website/static/css/main.8f3c4798.chunk.css",
-    "main.js": "/reactjs-mega-website/static/js/main.fd77691e.chunk.js",
-    "main.js.map": "/reactjs-mega-website/static/js/main.fd77691e.chunk.js.map",
+    "main.css": "/reactjs-mega-website/static/css/main.95c96088.chunk.css",
+    "main.js": "/reactjs-mega-website/static/js/main.66cccff5.chunk.js",
+    "main.js.map": "/reactjs-mega-website/static/js/main.66cccff5.chunk.js.map",
     "runtime-main.js": "/reactjs-mega-website/static/js/runtime-main.03c6f4f8.js",
     "runtime-main.js.map": "/reactjs-mega-website/static/js/runtime-main.03c6f4f8.js.map",
-    "static/js/2.95afe9e3.chunk.js": "/reactjs-mega-website/static/js/2.95afe9e3.chunk.js",
-    "static/js/2.95afe9e3.chunk.js.map": "/reactjs-mega-website/static/js/2.95afe9e3.chunk.js.map",
+    "static/js/2.d35bab74.chunk.js": "/reactjs-mega-website/static/js/2.d35bab74.chunk.js",
+    "static/js/2.d35bab74.chunk.js.map": "/reactjs-mega-website/static/js/2.d35bab74.chunk.js.map",
     "index.html": "/reactjs-mega-website/index.html",
-    "precache-manifest.2a7317b709d9e7814466d0d2f73d1e53.js": "/reactjs-mega-website/precache-manifest.2a7317b709d9e7814466d0d2f73d1e53.js",
+    "precache-manifest.03ec8cc16e6f848729b8ab3d875b2e79.js": "/reactjs-mega-website/precache-manifest.03ec8cc16e6f848729b8ab3d875b2e79.js",
     "service-worker.js": "/reactjs-mega-website/service-worker.js",
-    "static/css/main.8f3c4798.chunk.css.map": "/reactjs-mega-website/static/css/main.8f3c4798.chunk.css.map",
-    "static/js/2.95afe9e3.chunk.js.LICENSE.txt": "/reactjs-mega-website/static/js/2.95afe9e3.chunk.js.LICENSE.txt"
+    "static/css/main.95c96088.chunk.css.map": "/reactjs-mega-website/static/css/main.95c96088.chunk.css.map",
+    "static/js/2.d35bab74.chunk.js.LICENSE.txt": "/reactjs-mega-website/static/js/2.d35bab74.chunk.js.LICENSE.txt",
+    "static/media/svg-3.svg": "/reactjs-mega-website/static/media/svg-3.8786eabc.svg",
+    "static/media/svg-4.svg": "/reactjs-mega-website/static/media/svg-4.4ef03d76.svg",
+    "static/media/svg1.svg": "/reactjs-mega-website/static/media/svg1.5893dabd.svg",
+    "static/media/svg2.svg": "/reactjs-mega-website/static/media/svg2.80814e39.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.03c6f4f8.js",
-    "static/js/2.95afe9e3.chunk.js",
-    "static/css/main.8f3c4798.chunk.css",
-    "static/js/main.fd77691e.chunk.js"
+    "static/js/2.d35bab74.chunk.js",
+    "static/css/main.95c96088.chunk.css",
+    "static/js/main.66cccff5.chunk.js"
   ]
 }
