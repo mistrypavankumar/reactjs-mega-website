@@ -11,9 +11,9 @@ function HeroSection({
     headline,
     description,
     buttonLabel,
+    imgStart,
     img,
     alt,
-    imgStart
 }) {
     return (
         <>
